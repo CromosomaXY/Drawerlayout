@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/db" android:title="Dashboared" android:icon="@drawable/ic_iconmonstr_dashboard_3"/>
+    <item android:id="@+id/event" android:title="Events" android:icon="@drawable/ic_iconmonstr_calendar_5"/>
+    <item android:id="@+id/search" android:title="Search" android:icon="@drawable/ic_iconmonstr_magnifier_2"/>
+    <item android:id="@+id/settings" android:title="Settings" android:icon="@drawable/ic_iconmonstr_gear_1"/>
+    <item android:id="@+id/activities" android:title="Activities" android:icon="@drawable/ic_iconmonstr_sound_wave_8"/>
+    <item android:id="@+id/logout" android:title="LogOut" android:icon="@drawable/ic_iconmonstr_log_out_14"/>
+</menu>
